@@ -5,10 +5,9 @@ Shift KRS   : C
 Shift Baru  : F  
 
 
-# Screenshot
-## Display Pertemuan 3 
+## Screenshoot Display Pertemuan 3 
 
-**Dark Mode**
+## Dark Mode
 ### 1. Dark Mode (halaman utama) 
 <img width="702" height="1600" alt="dark main" src="https://github.com/user-attachments/assets/71864a80-7bf9-4ed0-bde5-c60398e3c7bf" />
 
@@ -18,7 +17,7 @@ Shift Baru  : F
 ### 3. Dark Mode (test kirim)
 <img width="1080" height="2460" alt="dark test" src="https://github.com/user-attachments/assets/751bca51-97f4-4019-bab1-fa6341e7d02b" />
 
-**Light Mode**
+## Light Mode
 ### 1. Light Mode (halaman utama) 
 <img width="702" height="1600" alt="light main" src="https://github.com/user-attachments/assets/df769ef4-0793-4d6f-8c08-325aaa6f1b4c" />
 
