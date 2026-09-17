@@ -28,16 +28,16 @@ Shift Baru  : F
 
 
 ## Screenshoot Display Pertemuan 4
-### Preview Category
+### 1. Preview Category
 <img width="1080" height="2460" alt="image" src="https://github.com/user-attachments/assets/3cb0609e-dc04-4372-b1dd-f5dbe6f49831" />
 
-### "Daftar Produk UMKM"
+### 2. "Daftar Produk UMKM"
 <img width="1080" height="253" alt="image" src="https://github.com/user-attachments/assets/89b70cba-7cc9-4484-ae46-82a60810c4cc" />
 
-### Dark Theme Preview
+### 3. Dark Theme Preview
 <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/6886f53c-5f7f-4827-a2c3-6d3aa17db91f" />
 
-### Light Theme Preview
+### 4. Light Theme Preview
 <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/debb0d04-c641-4f39-a350-e3af1ce6d5ef" />
 
 
