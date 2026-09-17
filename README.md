@@ -6,7 +6,6 @@ Shift Baru  : F
 
 
 ## Screenshoot Display Pertemuan 3 
-
 ## Dark Mode
 ### 1. Dark Mode (halaman utama) 
 <img width="702" height="1600" alt="dark main" src="https://github.com/user-attachments/assets/71864a80-7bf9-4ed0-bde5-c60398e3c7bf" />
@@ -26,4 +25,21 @@ Shift Baru  : F
 
 ### 3. Light Mode (test kirim)
 <img width="1080" height="2460" alt="light test" src="https://github.com/user-attachments/assets/ec599410-b55a-4fad-b64b-71841c7ee53a" />
+
+
+## Screenshoot Display Pertemuan 4
+### Preview Category
+<img width="1080" height="2460" alt="image" src="https://github.com/user-attachments/assets/3cb0609e-dc04-4372-b1dd-f5dbe6f49831" />
+
+### "Daftar Produk UMKM"
+<img width="1080" height="253" alt="image" src="https://github.com/user-attachments/assets/89b70cba-7cc9-4484-ae46-82a60810c4cc" />
+
+### Dark Theme Preview
+<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/6886f53c-5f7f-4827-a2c3-6d3aa17db91f" />
+
+### Light Theme Preview
+<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/debb0d04-c641-4f39-a350-e3af1ce6d5ef" />
+
+
+### Dark & Light Theme Preview
 
