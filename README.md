@@ -26,6 +26,8 @@ Shift Baru  : F
 ### 3. Light Mode (test kirim)
 <img width="1080" height="2460" alt="light test" src="https://github.com/user-attachments/assets/ec599410-b55a-4fad-b64b-71841c7ee53a" />
 
+<br>
+<br>
 
 ## Screenshoot Display Pertemuan 4
 ### 1. Preview Category
@@ -39,7 +41,3 @@ Shift Baru  : F
 
 ### 4. Light Theme Preview
 <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/debb0d04-c641-4f39-a350-e3af1ce6d5ef" />
-
-
-### Dark & Light Theme Preview
-
